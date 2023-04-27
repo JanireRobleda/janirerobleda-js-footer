@@ -1,0 +1,23 @@
+{
+  "name": "janirerobleda-js-footer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Janire Robleda <janirerobleda@gmail.com> (http://www.janirerobleda.eus/)",
+  "license": "ISC",
+  "description": "This module allows for a dynamic footer to be generated for JS application with an updated year and name.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanireRobleda/janirerobleda-js-footer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JanireRobleda/janirerobleda-js-footer/issues"
+  },
+  "homepage": "https://github.com/JanireRobleda/janirerobleda-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
